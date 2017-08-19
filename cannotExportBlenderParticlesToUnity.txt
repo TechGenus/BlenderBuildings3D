@@ -1,0 +1,1 @@
+https://blender.stackexchange.com/questions/59047/baking-a-particle-system-in-blender-to-use-in-unity
